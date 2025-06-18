@@ -2,7 +2,7 @@
 How to Log In to Your Home Depot Credit Card at Homedepot.com/MyCard
 ==============================
 
-Managing your Home Depot credit card is easy with the Homedepot.com/MyCard login portal, powered by Citibank. This guide provides step-by-step instructions to access your account, make payments, view statements, and more.
+Managing your Home Depot credit card is easy with the `Homedepot.com/MyCard login <http://www.homedepot.ca/creditcentre>`_ portal, powered by Citibank. This guide provides step-by-step instructions to access your account, make payments, view statements, and more.
   
 .. raw:: html
 
@@ -34,7 +34,7 @@ Why Use Homedepot.com/MyCard?
 Steps to Log In to Homedepot.com/MyCard
 ----------------------------------------
 
-1. **Visit the Official Portal:** Go to `https://www.homedepot.com/MyCard` or `https://citiretailservices.citibankonline.com`
+1. **Visit the Official Portal:** Go to `Homedepot.com/MyCard <http://www.homedepot.ca/creditcentre>`_
 2. **Select Login:** Click **“Sign In”** or **"Manage Your Card"**
 3. **Enter Your Credentials:**
    - User ID
@@ -46,7 +46,7 @@ Steps to Log In to Homedepot.com/MyCard
 How to Enroll for a New Account
 -------------------------------
 
-1. Visit `https://citiretailservices.citibankonline.com` or `https://www.homedepot.com/MyCard`
+1. Visit `Homedepot.com/MyCard <http://www.homedepot.ca/creditcentre>`_
 2. Click **"Register"** or **"Enroll"**
 3. Enter your card details and personal information
 4. Create a User ID and password

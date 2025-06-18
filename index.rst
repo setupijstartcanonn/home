@@ -83,4 +83,4 @@ Benefits of Managing Online
 Get Started Today
 ------------------
 
-Log in to `https://www.homedepot.com/MyCard` or `https://citiretailservices.citibankonline.com` now to manage your Home Depot credit card account and stay on top of your finances!
+Log in to `http://www.homedepot.ca/creditcentre <http://www.homedepot.ca/creditcentre>`_ or `https://citiretailservices.citibankonline.com <https://citiretailservices.citibankonline.com>`_  now to manage your Home Depot credit card account and stay on top of your finances!

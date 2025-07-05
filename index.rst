@@ -2,7 +2,7 @@
 How to Log In to Your Home Depot Credit Card at Homedepot.com/MyCard
 ==============================
 
-Managing your Home Depot credit card is easy with the `Homedepot.com/MyCard login <http://www.homedepot.ca/creditcentre>`_ portal, powered by Citibank. This guide provides step-by-step instructions to access your account, make payments, view statements, and more.
+Managing your Home Depot credit card is easy with the `Homedepot.com/MyCard login <https://sites.google.com/view/homedepotcommycard>`_ portal, powered by Citibank. This guide provides step-by-step instructions to access your account, make payments, view statements, and more.
   
 .. raw:: html
 
@@ -10,7 +10,7 @@ Managing your Home Depot credit card is easy with the `Homedepot.com/MyCard logi
 
 .. image:: Getbutton.png
    :alt: Homedepot.com/MyCard
-   :target: https://fm.ci/?aHR0cHM6Ly9ob21lZGVwb3RjYXJkaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://sites.google.com/view/homedepotcommycard
 
 
 .. raw:: html
